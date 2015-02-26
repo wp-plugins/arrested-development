@@ -2,8 +2,8 @@
 Contributors: fevered
 Tags: admin, arrested development, funny, hello dolly, quotes, television
 Requires at least: 3.0
-Stable tag: 1.0
-Tested up to: 4.0
+Stable tag: 1.1
+Tested up to: 4.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,3 +37,7 @@ I picked the ones I did for recognizability, length and context. There were some
 
 = 1.0 =
 * **Initial Release:** Allows displaying of Arrested Development quotes in the admin area
+
+= 1.1 =
+* Added that plugin is compatable with 4.1 
+* and the 'I've made a huge mistake' quote, which I made a huge mistake about.. and forgot the first time around.

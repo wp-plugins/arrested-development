@@ -59,7 +59,8 @@ Everybody dance <strong>NOW.</strong>
 I'm an ideas man Michael. I think I proved that with \"**** Mountain.\"
 Is there a little girl all here by herself? Daddy needs to get his rocks off.  
 I was mistakenly voted out of a four-person housing situation in a \"pack first, no talking after\" scenario. 
-Stupid, forgetful Michael.";
+Stupid, forgetful Michael.
+I've made a huge mistake.";
 
 	// Split the text into lines
 	$quotes = explode( "\n", $quotes );
